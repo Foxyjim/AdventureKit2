@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "port": "/dev/tty.usbserial-1410",
+    "programmer": "arduino:avrispmkii",
+    "sketch": "Lessons/Chapter01_MovingIn/01_DoesItStillWork/BlinkExample/BlinkExample.ino"
+}

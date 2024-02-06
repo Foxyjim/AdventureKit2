@@ -1,0 +1,15 @@
+/*
+ Here's how this is gonna work:
+  - copy their original code here:
+    - TheirSnakeCaseBkp.ino
+  - copy their file to Arduino IDE
+    - TheirSnakeCaseFileName.ino
+  - Code / Test / Debug
+  - save finished version back here:
+    - TheirSnakeCaseFileNameFinito.ino
+
+ Too many hoops, but don't want to:
+  1. Lose original code
+  2. Mess with C / Arduino here in VSC
+
+*/
